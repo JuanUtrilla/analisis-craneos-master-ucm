@@ -14,6 +14,11 @@ El objetivo es determinar estadísticamente si la morfología craneal cambió co
 
 ## 📊 Resultados Clave
 
+### Visualización de la Distribución
+![Diagrama de Caja y Bigotes](caja_bigotes.svg)
+
+*El gráfico muestra un ligero aumento en la mediana de la anchura craneal en el periodo tardío y una mayor dispersión de los datos en comparación con el periodo temprano.*
+
 ### 1. Análisis Descriptivo
 Se observó un aumento en la anchura media y la variabilidad en el periodo más tardío:
 * **Predinástico Temprano:** Media de **131.53 mm** con una desviación típica de 0.82 mm. La distribución es leptocúrtica (concentrada).
