@@ -15,7 +15,7 @@ El objetivo es determinar estadísticamente si la morfología craneal cambió co
 ## 📊 Resultados Clave
 
 ### Visualización de la Distribución
-![Diagrama de Caja y Bigotes](caja_bigotes.svg)
+![Diagrama de Caja y Bigotes](images/caja_bigotes.svg)
 
 *El gráfico muestra un ligero aumento en la mediana de la anchura craneal en el periodo tardío y una mayor dispersión de los datos en comparación con el periodo temprano.*
 
